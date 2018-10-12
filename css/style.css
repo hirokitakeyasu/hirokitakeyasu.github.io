@@ -172,7 +172,7 @@ section h2
             border-radius: 4px;
     background-color: #fdfcf6;
 }
-#skills i
+#skills img
 {
     font-size: 4.5rem;
     -webkit-box-sizing: border-box;
@@ -181,8 +181,9 @@ section h2
     width: 80px;
     height: 80px;
     margin-bottom: 5px;
-    padding-top: 15px;
     text-align: center;
+    display: block;
+    margin: 0 auto;
     color: #fff;
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
